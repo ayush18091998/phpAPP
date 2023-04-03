@@ -1,0 +1,21 @@
+*{
+box-sizing: border-box;
+margin: 0px;
+}
+.row{
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    height:33.1vh;
+}
+.imgConatiner{
+    height:100%;
+    width:126.3px;
+    object-fit: fill;
+    /* width: max-content; */
+}
+.pic{
+    height:100%;
+    width: 100%;
+
+}
